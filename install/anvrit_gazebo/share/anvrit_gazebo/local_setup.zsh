@@ -1,0 +1,1 @@
+/home/sudhanshu/anvrit_ws/build/anvrit_gazebo/ament_cmake_environment_hooks/local_setup.zsh

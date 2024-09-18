@@ -1,0 +1,3 @@
+[console_scripts]
+encoder_talker = odometry_generator.encoder_talker:main
+

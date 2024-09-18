@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing anvrit_navigation.egg-info/PKG-INFO
+writing dependency_links to anvrit_navigation.egg-info/dependency_links.txt
+writing entry points to anvrit_navigation.egg-info/entry_points.txt
+writing requirements to anvrit_navigation.egg-info/requires.txt
+writing top-level names to anvrit_navigation.egg-info/top_level.txt
+reading manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+writing manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages/anvrit-navigation.egg-link (link to .)
+
+Installed /home/sudhanshu/anvrit_ws/build/anvrit_navigation
+running symlink_data
+symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/config/twist_mux.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/config
