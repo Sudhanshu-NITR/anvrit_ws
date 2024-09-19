@@ -1,0 +1,17 @@
+[1.429s] Invoking command in '/home/sudhanshu/anvrit_ws/build/odometry_generator': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/odometry_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/odometry_generator/build --no-deps symlink_data
+[1.801s] running develop
+[2.064s] running egg_info
+[2.065s] writing odometry_generator.egg-info/PKG-INFO
+[2.065s] writing dependency_links to odometry_generator.egg-info/dependency_links.txt
+[2.065s] writing entry points to odometry_generator.egg-info/entry_points.txt
+[2.065s] writing requirements to odometry_generator.egg-info/requires.txt
+[2.065s] writing top-level names to odometry_generator.egg-info/top_level.txt
+[2.068s] reading manifest file 'odometry_generator.egg-info/SOURCES.txt'
+[2.069s] writing manifest file 'odometry_generator.egg-info/SOURCES.txt'
+[2.071s] running build_ext
+[2.071s] Creating /home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages/odometry-generator.egg-link (link to .)
+[2.072s] Installing encoder_talker script to /home/sudhanshu/anvrit_ws/install/odometry_generator/lib/odometry_generator
+[2.072s] 
+[2.072s] Installed /home/sudhanshu/anvrit_ws/build/odometry_generator
+[2.072s] running symlink_data
+[2.125s] Invoked command in '/home/sudhanshu/anvrit_ws/build/odometry_generator' returned '0': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/odometry_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/odometry_generator/build --no-deps symlink_data

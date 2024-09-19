@@ -1,0 +1,24 @@
+[1.556s] Invoking command in '/home/sudhanshu/anvrit_ws/build/odometry_generator': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/odometry_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/odometry_generator/build --no-deps symlink_data
+[1.938s] running develop
+[2.249s] running egg_info
+[2.249s] creating odometry_generator.egg-info
+[2.249s] writing odometry_generator.egg-info/PKG-INFO
+[2.249s] writing dependency_links to odometry_generator.egg-info/dependency_links.txt
+[2.250s] writing entry points to odometry_generator.egg-info/entry_points.txt
+[2.250s] writing requirements to odometry_generator.egg-info/requires.txt
+[2.250s] writing top-level names to odometry_generator.egg-info/top_level.txt
+[2.251s] writing manifest file 'odometry_generator.egg-info/SOURCES.txt'
+[2.253s] reading manifest file 'odometry_generator.egg-info/SOURCES.txt'
+[2.254s] writing manifest file 'odometry_generator.egg-info/SOURCES.txt'
+[2.256s] running build_ext
+[2.257s] Creating /home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages/odometry-generator.egg-link (link to .)
+[2.258s] Installing encoder_talker script to /home/sudhanshu/anvrit_ws/install/odometry_generator/lib/odometry_generator
+[2.258s] 
+[2.259s] Installed /home/sudhanshu/anvrit_ws/build/odometry_generator
+[2.259s] running symlink_data
+[2.259s] creating /home/sudhanshu/anvrit_ws/install/odometry_generator/share/ament_index
+[2.259s] creating /home/sudhanshu/anvrit_ws/install/odometry_generator/share/ament_index/resource_index
+[2.259s] creating /home/sudhanshu/anvrit_ws/install/odometry_generator/share/ament_index/resource_index/packages
+[2.259s] symbolically linking /home/sudhanshu/anvrit_ws/build/odometry_generator/resource/odometry_generator -> /home/sudhanshu/anvrit_ws/install/odometry_generator/share/ament_index/resource_index/packages
+[2.259s] symbolically linking /home/sudhanshu/anvrit_ws/build/odometry_generator/package.xml -> /home/sudhanshu/anvrit_ws/install/odometry_generator/share/odometry_generator
+[2.313s] Invoked command in '/home/sudhanshu/anvrit_ws/build/odometry_generator' returned '0': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/odometry_generator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/odometry_generator/build --no-deps symlink_data

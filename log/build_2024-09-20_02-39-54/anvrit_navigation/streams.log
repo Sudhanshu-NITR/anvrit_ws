@@ -1,0 +1,32 @@
+[1.518s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data
+[1.907s] running develop
+[2.195s] running egg_info
+[2.195s] creating anvrit_navigation.egg-info
+[2.195s] writing anvrit_navigation.egg-info/PKG-INFO
+[2.196s] writing dependency_links to anvrit_navigation.egg-info/dependency_links.txt
+[2.196s] writing entry points to anvrit_navigation.egg-info/entry_points.txt
+[2.196s] writing requirements to anvrit_navigation.egg-info/requires.txt
+[2.196s] writing top-level names to anvrit_navigation.egg-info/top_level.txt
+[2.197s] writing manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.199s] reading manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.200s] writing manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.202s] running build_ext
+[2.202s] Creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages/anvrit-navigation.egg-link (link to .)
+[2.203s] 
+[2.203s] Installed /home/sudhanshu/anvrit_ws/build/anvrit_navigation
+[2.203s] running symlink_data
+[2.203s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/ament_index
+[2.204s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/ament_index/resource_index
+[2.204s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/ament_index/resource_index/packages
+[2.204s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/resource/anvrit_navigation -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/ament_index/resource_index/packages
+[2.204s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/package.xml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation
+[2.204s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/launch
+[2.204s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/maps
+[2.204s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/config
+[2.205s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/config/twist_mux.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/config
+[2.205s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/config/ekf_config.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/config
+[2.205s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/config/ekf.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/config
+[2.205s] creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/params
+[2.205s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/params/nav2_params.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/params
+[2.205s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/params/mapper_params_online_async.yaml -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/params
+[2.260s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation' returned '0': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data

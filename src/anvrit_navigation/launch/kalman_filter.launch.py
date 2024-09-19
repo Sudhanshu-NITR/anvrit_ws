@@ -8,12 +8,6 @@ def generate_launch_description():
             executable='ekf_node',
             name='ekf_filter_node',
             output='screen',
-            parameters=[{
-                'frequency': 50.0,
-                'sensor_timeout': 0.1,
-                'two_d_mode': True,
-                'odom0': '/gazebo/robot/odometry',
-                'imu0': '/gazebo/robot/imu/data'
-            }]
-        )
+            parameters=['../config/ekf.yaml']
+        ),
     ])

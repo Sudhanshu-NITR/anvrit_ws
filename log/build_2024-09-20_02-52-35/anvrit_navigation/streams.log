@@ -1,0 +1,16 @@
+[1.374s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data
+[1.748s] running develop
+[2.031s] running egg_info
+[2.031s] writing anvrit_navigation.egg-info/PKG-INFO
+[2.031s] writing dependency_links to anvrit_navigation.egg-info/dependency_links.txt
+[2.031s] writing entry points to anvrit_navigation.egg-info/entry_points.txt
+[2.032s] writing requirements to anvrit_navigation.egg-info/requires.txt
+[2.032s] writing top-level names to anvrit_navigation.egg-info/top_level.txt
+[2.034s] reading manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.035s] writing manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.037s] running build_ext
+[2.037s] Creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages/anvrit-navigation.egg-link (link to .)
+[2.038s] 
+[2.038s] Installed /home/sudhanshu/anvrit_ws/build/anvrit_navigation
+[2.038s] running symlink_data
+[2.075s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation' returned '0': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data

@@ -1,0 +1,62 @@
+[0.037s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake /home/sudhanshu/anvrit_ws/src/anvrit_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sudhanshu/anvrit_ws/install/anvrit_description
+[0.458s] -- The C compiler identification is GNU 11.4.0
+[0.459s] -- The CXX compiler identification is GNU 11.4.0
+[0.459s] -- Detecting C compiler ABI info
+[0.459s] -- Detecting C compiler ABI info - done
+[0.459s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.459s] -- Detecting C compile features
+[0.459s] -- Detecting C compile features - done
+[0.459s] -- Detecting CXX compiler ABI info
+[0.460s] -- Detecting CXX compiler ABI info - done
+[0.468s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.468s] -- Detecting CXX compile features
+[0.469s] -- Detecting CXX compile features - done
+[0.476s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.691s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.779s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.857s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.998s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.999s] -- Added test 'lint_cmake' to check CMake code style
+[1.000s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.003s] -- Added test 'xmllint' to check XML markup files
+[1.005s] -- Configuring done
+[1.009s] -- Generating done
+[1.011s] -- Build files have been written to: /home/sudhanshu/anvrit_ws/build/anvrit_description
+[1.017s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake /home/sudhanshu/anvrit_ws/src/anvrit_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sudhanshu/anvrit_ws/install/anvrit_description
+[1.020s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake --build /home/sudhanshu/anvrit_ws/build/anvrit_description -- -j12 -l12
+[1.080s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake --build /home/sudhanshu/anvrit_ws/build/anvrit_description -- -j12 -l12
+[1.128s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake --install /home/sudhanshu/anvrit_ws/build/anvrit_description
+[1.140s] -- Install configuration: ""
+[1.140s] -- Execute custom install script
+[1.141s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//launch/empty_world.launch.py
+[1.156s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//launch/robot_state_publisher.launch.py
+[1.169s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//launch/spawn_anvrit.launch.py
+[1.183s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/base_link.STL
+[1.197s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/camera_link.STL
+[1.211s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/caster_1_link.STL
+[1.225s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/caster_2_link.STL
+[1.241s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/gps_link.STL
+[1.254s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/left_wheel_link.STL
+[1.269s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/lidar_link.STL
+[1.282s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/phone_link.STL
+[1.295s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/right_wheel_link.STL
+[1.309s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//meshes/wheel.stl
+[1.324s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//worlds/empty_world.world
+[1.339s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//urdf/anvrit.gazebo
+[1.352s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description//urdf/anvrit.urdf.xacro
+[1.366s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/ament_index/resource_index/package_run_dependencies/anvrit_description
+[1.380s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/ament_index/resource_index/parent_prefix_path/anvrit_description
+[1.394s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/environment/ament_prefix_path.sh
+[1.410s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/environment/ament_prefix_path.dsv
+[1.424s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/environment/path.sh
+[1.439s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/environment/path.dsv
+[1.455s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/local_setup.bash
+[1.470s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/local_setup.sh
+[1.485s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/local_setup.zsh
+[1.500s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/local_setup.dsv
+[1.514s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/package.dsv
+[1.529s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/ament_index/resource_index/packages/anvrit_description
+[1.545s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/cmake/anvrit_descriptionConfig.cmake
+[1.559s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/cmake/anvrit_descriptionConfig-version.cmake
+[1.573s] -- Symlinking: /home/sudhanshu/anvrit_ws/install/anvrit_description/share/anvrit_description/package.xml
+[1.590s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sudhanshu/anvrit_ws/install/odometry_generator:/home/sudhanshu/anvrit_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/my_robot_controller:/home/sudhanshu/ros2_ws/install/find_factorial:/home/sudhanshu/ros2_ws/install/bot_control:/home/sudhanshu/ros2_ws/install/anvrit_navigation:/home/sudhanshu/ros2_ws/install/anvrit_gazebo:/home/sudhanshu/cyborg_ws/install/anvrit_navigation:/opt/ros/humble /usr/bin/cmake --install /home/sudhanshu/anvrit_ws/build/anvrit_description

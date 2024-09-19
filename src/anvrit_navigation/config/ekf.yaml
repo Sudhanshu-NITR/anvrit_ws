@@ -1,0 +1,26 @@
+ekf_filter_node:
+  frequency: 30  # The rate at which the filter runs, in Hz
+  sensor_timeout: 0.1  # How long to wait for new sensor data before using old data
+  two_d_mode: true  # Set this to true if the robot is on a plane (ignores z-axis)
+
+  # Odometry sensor (usually publishes on /odom)
+  odom0: odom
+  odom0_config: [true,  true,  true,   # X, Y, Z position
+                 false, false, false,  # Roll, Pitch, Yaw orientation
+                 true,  true,  false,  # Linear velocities (X, Y, Z)
+                 false, false, false,  # Angular velocities (Roll, Pitch, Yaw)
+                 false, false, false]  # Linear and angular acceleration
+
+  # GPS sensor (publishes on /gps/fix)
+  gps0: gps/fix
+  gps0_config: [true,  true,  false,  # X, Y position from GPS
+                false, false, false,  # Orientation
+                false, false, false,  # Linear velocity
+                false, false, false,  # Angular velocity
+                false, false, false]  # Acceleration
+
+  # State estimation output frame (usually odom or map)
+  map_frame: map
+  odom_frame: odom
+  base_link_frame: base_link
+  world_frame: odom

@@ -9,6 +9,7 @@ anvrit_navigation.egg-info/entry_points.txt
 anvrit_navigation.egg-info/requires.txt
 anvrit_navigation.egg-info/top_level.txt
 anvrit_navigation.egg-info/zip-safe
+config/ekf.yaml
 config/ekf_config.yaml
 config/twist_mux.yaml
 launch/kalman_filter.launch.py

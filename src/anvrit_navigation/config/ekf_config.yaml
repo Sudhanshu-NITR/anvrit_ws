@@ -1,5 +1,6 @@
-frequency: 50
-sensor_timeout: 0.1
+frequency: 30.0
+sensor_timeout: 1.0
 two_d_mode: true
-odom0: /gazebo/robot/odometry
-imu0: /gazebo/robot/imu
+publish_tf: true
+odom_frame: odom
+base_link_frame: base_link

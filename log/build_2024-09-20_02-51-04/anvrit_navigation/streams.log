@@ -1,0 +1,17 @@
+[1.440s] Invoking command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data
+[1.808s] running develop
+[2.072s] running egg_info
+[2.072s] writing anvrit_navigation.egg-info/PKG-INFO
+[2.072s] writing dependency_links to anvrit_navigation.egg-info/dependency_links.txt
+[2.073s] writing entry points to anvrit_navigation.egg-info/entry_points.txt
+[2.073s] writing requirements to anvrit_navigation.egg-info/requires.txt
+[2.073s] writing top-level names to anvrit_navigation.egg-info/top_level.txt
+[2.075s] reading manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.076s] writing manifest file 'anvrit_navigation.egg-info/SOURCES.txt'
+[2.078s] running build_ext
+[2.078s] Creating /home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages/anvrit-navigation.egg-link (link to .)
+[2.079s] 
+[2.079s] Installed /home/sudhanshu/anvrit_ws/build/anvrit_navigation
+[2.079s] running symlink_data
+[2.080s] symbolically linking /home/sudhanshu/anvrit_ws/build/anvrit_navigation/launch/kalman_filter.launch.py -> /home/sudhanshu/anvrit_ws/install/anvrit_navigation/share/anvrit_navigation/launch
+[2.123s] Invoked command in '/home/sudhanshu/anvrit_ws/build/anvrit_navigation' returned '0': PYTHONPATH=/home/sudhanshu/anvrit_ws/build/anvrit_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sudhanshu/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sudhanshu/anvrit_ws/build/anvrit_navigation/build --no-deps symlink_data
